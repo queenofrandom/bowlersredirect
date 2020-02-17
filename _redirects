@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+https://www.bowlerspet.co.uk/ https://fetch.co.uk/bowlers
+
+https://vigorous-noether-d1ac38.netlify.com/*  https://fetch.co.uk/bowlers 301!
+http://vigorous-noether-d1ac38.netlify.com/*   https://fetch.co.uk/bowlers  301!
